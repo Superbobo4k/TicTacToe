@@ -20,6 +20,7 @@ int menu(std::vector<User>& users, struct User account)
                 for (int i = 0; i < 9; i++)
                     board[i] = ' ';
                 printBoard(board, game(board));
+                getch();
                 account.timesPlayed++;
                 syncAccount(users, account);
                 exportDatabase(users);
