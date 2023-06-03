@@ -1,10 +1,10 @@
-#include <../src/lib-tic-tac-toe/struct.h>
+#include <../src/lib-TicTacToe/struct.h>
 
-#include <../src/lib-tic-tac-toe/authorise.h>
-#include <../src/lib-tic-tac-toe/exportDatabase.h>
-#include <../src/lib-tic-tac-toe/game.h>
-#include <../src/lib-tic-tac-toe/menu.h>
-#include <../src/lib-tic-tac-toe/printMenu.h>
+#include <../src/lib-TicTacToe/authorise.h>
+#include <../src/lib-TicTacToe/exportDatabase.h>
+#include <../src/lib-TicTacToe/game.h>
+#include <../src/lib-TicTacToe/menu.h>
+#include <../src/lib-TicTacToe/printMenu.h>
 
 #include <../thirdparty/ctest.h>
 
