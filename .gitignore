@@ -67,3 +67,5 @@ dkms.conf
 
 # Compiled Static libraries
 *.lai
+
+*Zone.Identifier
